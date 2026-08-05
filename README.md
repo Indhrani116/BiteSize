@@ -35,15 +35,6 @@ BiteSize is a MERN Stack web application that enables students to share educatio
 ### AI Integration
 - Google Gemini API
 
-## Project Structure
-
-BiteSize/
-│
-├── client/
-├── server/
-├── README.md
-└── .gitignore
-
 ## Team Members
 
 - Indhrani
